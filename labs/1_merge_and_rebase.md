@@ -15,6 +15,8 @@ if __name__ == "__main__":
 
 ```
 
+3. Commit this change
+
 ## Setup features
 Suppose we now want to add two features. 
 1. Support any amount of arguments
